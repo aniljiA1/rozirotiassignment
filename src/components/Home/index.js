@@ -13,11 +13,6 @@ const Home = () => (
           book now
         </button>
       </div>
-      <img
-        src="https://assets.ccbp.in/frontend/react-js/nxt-trendz-home-img.png"
-        alt="dresses to be noticed"
-        className="home-desktop-img"
-      />
     </div>
   </>
 )
